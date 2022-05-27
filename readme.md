@@ -11,7 +11,7 @@
 
 * computer_vision
 
-    There are a few fields that need to be taken into account and possibly tweak to ensure the assistant works properly:
+    There are a few fields that need to be optimized to ensure the assistant works properly:
 
     1. `min_length`: Defines the minimum length a contour needs to have to be considered of interest (detected)
 
