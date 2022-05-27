@@ -1,4 +1,6 @@
 # Parking Assistant with IoT and OpenCV
+## Author
+Rigoberto López Fernández ([https://github.com/r160v/opencv_iot_parking_assistant](https://github.com/r160v/opencv_iot_parking_assistant))
 
 ## Prerequisites
 * Install [redis](https://redis.io/) and start it with `redis-server`
